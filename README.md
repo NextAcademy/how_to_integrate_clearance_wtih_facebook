@@ -10,7 +10,7 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 
 1. add ``` gem 'omniauth'``` into Gemfile
 
-2. add ``` gem omniauth-facebook``` into Gemfile
+2. add ``` gem 'omniauth-facebook' ``` into Gemfile
 
 3. run ``` bundle ``` in the terminal
 
